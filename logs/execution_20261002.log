@@ -2271,3 +2271,110 @@
 2026-10-02 14:56:35,658 [INFO] pages.base_page - Aguardando visibilidade do elemento: css selector='[data-test='error']'
 2026-10-02 14:56:35,721 [INFO] pages.base_page - Texto obtido: 'Epic sadface: Username is required'
 2026-10-02 14:56:35,722 [INFO] QA_Selenium - Encerando a sessão do Selenium WebDriver...
+2026-10-02 17:54:42,280 [INFO] QA_Selenium - Iniciando a sessão do Selenium WebDriver...
+2026-10-02 17:54:43,429 [INFO] pages.login_page - Acessando a URL de login: https://www.saucedemo.com/
+2026-10-02 17:54:43,432 [INFO] pages.base_page - Navegando para URL: https://www.saucedemo.com/
+2026-10-02 17:54:46,615 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175445_599074_login_page_aberta.png' e anexada ao Allure Report.
+2026-10-02 17:54:46,616 [INFO] pages.login_page - Iniciando tentativa de login para o usuário 'standard_user'...
+2026-10-02 17:54:46,617 [INFO] pages.login_page - Preenchendo usuário: standard_user
+2026-10-02 17:54:46,617 [INFO] pages.base_page - Preenchendo campo id='user-name' com o valor: 'standard_user'
+2026-10-02 17:54:46,618 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='user-name'
+2026-10-02 17:54:48,841 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175447_829356_usuario_standard_user.png' e anexada ao Allure Report.
+2026-10-02 17:54:48,843 [INFO] pages.login_page - Preenchendo campo de senha...
+2026-10-02 17:54:48,844 [INFO] pages.base_page - Preenchendo campo id='password' com o valor: 'secret_sauce'
+2026-10-02 17:54:48,844 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='password'
+2026-10-02 17:54:51,028 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175450_014405_senha_digitada.png' e anexada ao Allure Report.
+2026-10-02 17:54:51,029 [INFO] pages.login_page - Clicando no botão de login...
+2026-10-02 17:54:51,030 [INFO] pages.base_page - Clicando no elemento: id='login-button'
+2026-10-02 17:54:52,408 [INFO] pages.inventory_page - Adicionando produto ao carrinho: Sauce Labs Backpack
+2026-10-02 17:54:52,509 [INFO] pages.inventory_page - Produto 'Sauce Labs Backpack' adicionado com sucesso.
+2026-10-02 17:54:52,516 [INFO] pages.inventory_page - Badge do carrinho: '1'
+2026-10-02 17:54:52,517 [INFO] QA_Selenium - Encerando a sessão do Selenium WebDriver...
+2026-10-02 17:54:54,819 [INFO] QA_Selenium - Iniciando a sessão do Selenium WebDriver...
+2026-10-02 17:54:55,835 [INFO] pages.login_page - Acessando a URL de login: https://www.saucedemo.com/
+2026-10-02 17:54:55,839 [INFO] pages.base_page - Navegando para URL: https://www.saucedemo.com/
+2026-10-02 17:54:58,853 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175457_864725_login_page_aberta.png' e anexada ao Allure Report.
+2026-10-02 17:54:58,854 [INFO] pages.login_page - Iniciando tentativa de login para o usuário 'standard_user'...
+2026-10-02 17:54:58,854 [INFO] pages.login_page - Preenchendo usuário: standard_user
+2026-10-02 17:54:58,854 [INFO] pages.base_page - Preenchendo campo id='user-name' com o valor: 'standard_user'
+2026-10-02 17:54:58,855 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='user-name'
+2026-10-02 17:55:00,936 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175459_951538_usuario_standard_user.png' e anexada ao Allure Report.
+2026-10-02 17:55:00,938 [INFO] pages.login_page - Preenchendo campo de senha...
+2026-10-02 17:55:00,939 [INFO] pages.base_page - Preenchendo campo id='password' com o valor: 'secret_sauce'
+2026-10-02 17:55:00,940 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='password'
+2026-10-02 17:55:03,077 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175502_097186_senha_digitada.png' e anexada ao Allure Report.
+2026-10-02 17:55:03,080 [INFO] pages.login_page - Clicando no botão de login...
+2026-10-02 17:55:03,081 [INFO] pages.base_page - Clicando no elemento: id='login-button'
+2026-10-02 17:55:04,466 [INFO] pages.inventory_page - Ordenando produtos por preço crescente.
+2026-10-02 17:55:04,667 [INFO] pages.inventory_page - Preços da página de produtos: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-10-02 17:55:04,669 [INFO] QA_Selenium - Encerando a sessão do Selenium WebDriver...
+2026-10-02 17:55:06,974 [INFO] QA_Selenium - Iniciando a sessão do Selenium WebDriver...
+2026-10-02 17:55:07,966 [INFO] pages.login_page - Acessando a URL de login: https://www.saucedemo.com/
+2026-10-02 17:55:07,969 [INFO] pages.base_page - Navegando para URL: https://www.saucedemo.com/
+2026-10-02 17:55:10,946 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175509_953729_login_page_aberta.png' e anexada ao Allure Report.
+2026-10-02 17:55:10,949 [INFO] pages.login_page - Iniciando tentativa de login para o usuário 'standard_user'...
+2026-10-02 17:55:10,949 [INFO] pages.login_page - Preenchendo usuário: standard_user
+2026-10-02 17:55:10,950 [INFO] pages.base_page - Preenchendo campo id='user-name' com o valor: 'standard_user'
+2026-10-02 17:55:10,951 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='user-name'
+2026-10-02 17:55:13,107 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175512_131258_usuario_standard_user.png' e anexada ao Allure Report.
+2026-10-02 17:55:13,109 [INFO] pages.login_page - Preenchendo campo de senha...
+2026-10-02 17:55:13,109 [INFO] pages.base_page - Preenchendo campo id='password' com o valor: 'secret_sauce'
+2026-10-02 17:55:13,110 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='password'
+2026-10-02 17:55:15,299 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175514_308806_senha_digitada.png' e anexada ao Allure Report.
+2026-10-02 17:55:15,301 [INFO] pages.login_page - Clicando no botão de login...
+2026-10-02 17:55:15,301 [INFO] pages.base_page - Clicando no elemento: id='login-button'
+2026-10-02 17:55:16,708 [INFO] pages.login_page - Validando sucesso na autenticação...
+2026-10-02 17:55:16,708 [INFO] pages.base_page - Verificando visibilidade do elemento: class name='title' (timeout=3s)
+2026-10-02 17:55:19,061 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175518_043258_login_sucesso.png' e anexada ao Allure Report.
+2026-10-02 17:55:19,066 [INFO] QA_Selenium - Encerando a sessão do Selenium WebDriver...
+2026-10-02 17:55:21,373 [INFO] QA_Selenium - Iniciando a sessão do Selenium WebDriver...
+2026-10-02 17:55:22,387 [INFO] pages.login_page - Acessando a URL de login: https://www.saucedemo.com/
+2026-10-02 17:55:22,389 [INFO] pages.base_page - Navegando para URL: https://www.saucedemo.com/
+2026-10-02 17:55:25,348 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175524_365584_login_page_aberta.png' e anexada ao Allure Report.
+2026-10-02 17:55:25,350 [INFO] pages.login_page - Iniciando tentativa de login para o usuário 'standard_user'...
+2026-10-02 17:55:25,351 [INFO] pages.login_page - Preenchendo usuário: standard_user
+2026-10-02 17:55:25,352 [INFO] pages.base_page - Preenchendo campo id='user-name' com o valor: 'standard_user'
+2026-10-02 17:55:25,353 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='user-name'
+2026-10-02 17:55:27,533 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175526_551113_usuario_standard_user.png' e anexada ao Allure Report.
+2026-10-02 17:55:27,535 [INFO] pages.login_page - Preenchendo campo de senha...
+2026-10-02 17:55:27,536 [INFO] pages.base_page - Preenchendo campo id='password' com o valor: 'senha_errada'
+2026-10-02 17:55:27,537 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='password'
+2026-10-02 17:55:29,657 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175528_704976_senha_digitada.png' e anexada ao Allure Report.
+2026-10-02 17:55:29,659 [INFO] pages.login_page - Clicando no botão de login...
+2026-10-02 17:55:29,660 [INFO] pages.base_page - Clicando no elemento: id='login-button'
+2026-10-02 17:55:41,607 [INFO] pages.login_page - Obtendo texto da mensagem de erro...
+2026-10-02 17:55:41,607 [INFO] pages.base_page - Obtendo texto do elemento css selector='[data-test='error']'
+2026-10-02 17:55:41,608 [INFO] pages.base_page - Aguardando visibilidade do elemento: css selector='[data-test='error']'
+2026-10-02 17:55:41,628 [INFO] pages.base_page - Texto obtido: 'Epic sadface: Username and password do not match any user in this service'
+2026-10-02 17:55:41,634 [INFO] QA_Selenium - Encerando a sessão do Selenium WebDriver...
+2026-10-02 17:55:43,963 [INFO] QA_Selenium - Iniciando a sessão do Selenium WebDriver...
+2026-10-02 17:55:44,960 [INFO] pages.login_page - Acessando a URL de login: https://www.saucedemo.com/
+2026-10-02 17:55:44,961 [INFO] pages.base_page - Navegando para URL: https://www.saucedemo.com/
+2026-10-02 17:55:47,841 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175546_847726_login_page_aberta.png' e anexada ao Allure Report.
+2026-10-02 17:55:47,845 [INFO] pages.login_page - Iniciando tentativa de login para o usuário 'locked_out_user'...
+2026-10-02 17:55:47,846 [INFO] pages.login_page - Preenchendo usuário: locked_out_user
+2026-10-02 17:55:47,847 [INFO] pages.base_page - Preenchendo campo id='user-name' com o valor: 'locked_out_user'
+2026-10-02 17:55:47,851 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='user-name'
+2026-10-02 17:55:50,006 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175549_001296_usuario_locked_out_user.png' e anexada ao Allure Report.
+2026-10-02 17:55:50,008 [INFO] pages.login_page - Preenchendo campo de senha...
+2026-10-02 17:55:50,009 [INFO] pages.base_page - Preenchendo campo id='password' com o valor: 'secret_sauce'
+2026-10-02 17:55:50,010 [INFO] pages.base_page - Aguardando visibilidade do elemento: id='password'
+2026-10-02 17:55:52,163 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175551_178792_senha_digitada.png' e anexada ao Allure Report.
+2026-10-02 17:55:52,168 [INFO] pages.login_page - Clicando no botão de login...
+2026-10-02 17:55:52,169 [INFO] pages.base_page - Clicando no elemento: id='login-button'
+2026-10-02 17:56:04,054 [INFO] pages.login_page - Obtendo texto da mensagem de erro...
+2026-10-02 17:56:04,055 [INFO] pages.base_page - Obtendo texto do elemento css selector='[data-test='error']'
+2026-10-02 17:56:04,056 [INFO] pages.base_page - Aguardando visibilidade do elemento: css selector='[data-test='error']'
+2026-10-02 17:56:04,092 [INFO] pages.base_page - Texto obtido: 'Epic sadface: Sorry, this user has been locked out.'
+2026-10-02 17:56:04,100 [INFO] QA_Selenium - Encerando a sessão do Selenium WebDriver...
+2026-10-02 17:56:06,359 [INFO] QA_Selenium - Iniciando a sessão do Selenium WebDriver...
+2026-10-02 17:56:07,338 [INFO] pages.login_page - Acessando a URL de login: https://www.saucedemo.com/
+2026-10-02 17:56:07,339 [INFO] pages.base_page - Navegando para URL: https://www.saucedemo.com/
+2026-10-02 17:56:10,273 [INFO] pages.base_page - Evidência da tela do computador salva em 'img\login\20261002_175609_286840_login_page_aberta.png' e anexada ao Allure Report.
+2026-10-02 17:56:10,274 [INFO] pages.login_page - Clicando no botão de login...
+2026-10-02 17:56:10,275 [INFO] pages.base_page - Clicando no elemento: id='login-button'
+2026-10-02 17:56:11,646 [INFO] pages.login_page - Obtendo texto da mensagem de erro...
+2026-10-02 17:56:11,647 [INFO] pages.base_page - Obtendo texto do elemento css selector='[data-test='error']'
+2026-10-02 17:56:11,648 [INFO] pages.base_page - Aguardando visibilidade do elemento: css selector='[data-test='error']'
+2026-10-02 17:56:11,683 [INFO] pages.base_page - Texto obtido: 'Epic sadface: Username is required'
+2026-10-02 17:56:11,690 [INFO] QA_Selenium - Encerando a sessão do Selenium WebDriver...
