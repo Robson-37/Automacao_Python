@@ -1,0 +1,12 @@
+# Framework de Testes e Automação Web
+selenium>=4.18.0
+pytest>=8.0.0
+
+# Gerenciamento Automático de Drivers (Chrome, Firefox, Edge)
+webdriver-manager>=4.0.1
+
+# Gerador de Relatórios e Evidências Interativas
+allure-pytest>=2.13.0
+
+# Manipulação de Imagens para Evidências Visual
+pillow>=10.0.0
